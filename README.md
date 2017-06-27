@@ -3,6 +3,7 @@
 ### 목차
 * [교육목표](#교육목표)
 * [과정구성](#과정구성)
+* [튜터구성](#튜터구성)
 
 * [학습 프로젝트 커리큘럼](#학습프로젝트커리큘럼)
 
@@ -24,6 +25,23 @@
 * 프로젝트 사이클 경험
 * 프로젝트를 통한 실전 경험 및 실력 향상
 * 맞춤형 멘토링을 통한 문제 해결 능력 함양
+
+
+<a name="튜터구성"></a>
+## 튜터구성
+
+* 메인 튜터 : 한동호
+    * 커리큘럼 구성
+    * 기초 교육
+    * 학습 관리
+    
+* 튜터 :  김병우, 이준호, 장영남, 최선일
+    * 조별 오프라인 튜터링
+    * 조별 온라인 튜터링
+    * 조별 코드 리뷰
+    * [전체 기술 세미나](#기술세미나일정)
+  
+
 
 
 <a name="학습프로젝트커리큘럼"></a>
@@ -48,26 +66,24 @@
 
 <a name="학습참고자료"></a>
 ## 학습 참고자료
-* 안드로이드 기초 동영상 강의 
-    [Link] https://www.udacity.com/course/new-android-fundamentals--ud851 
-    [Link] https://www.udacity.com/course/advanced-android-app-development--ud855 
-* 안드로이드 앱 개발 초급 동영상 [Link] http://www.edwith.org/android_basic
-* 안드로이드 앱 개발 중급 동영상 [Link] http://www.edwith.org/android_adv
-* 안드로이드 온라인 서적 [Link] https://www.gitbook.com/book/kairo96/android
+* 안드로이드 기초 동영상 강의 #1 https://www.udacity.com/course/new-android-fundamentals--ud851 
+* 안드로이드 기초 동영상 강의 #2 https://www.udacity.com/course/advanced-android-app-development--ud855 
+* 안드로이드 앱 개발 초급 동영상 http://www.edwith.org/android_basic
+* 안드로이드 앱 개발 중급 동영상 http://www.edwith.org/android_adv
+* 안드로이드 온라인 서적 https://www.gitbook.com/book/kairo96/android
+* 머티리얼 디자인 http://davidlab.net/google-design-ko/material-design/introduction.html
 * 안드로이드 기초 서적(시중에서 개별 구매)
 * 네이버, 구글 온라인 검색 자료
-* 머티리얼 디자인 [Link] http://davidlab.net/google-design-ko/material-design/introduction.html
-
 
 
 <a name="기술세미나일정"></a>
 ## 기술세미나 일정
 
-* 1주 *김병우* Git 기초 및 Github 사용법
-* 2주 *장영남* 안드로이드와 파이어베이스 용법 및 용도, 활용방법 등
-* 3주 *이준호* 안드로이드 코틀린 기본 구조, 사용법, 유용성 등
-* 4주 *최선일* 안드로이드 주요 라이브러리 10선 소개 및 사용법
-* 5주 *이준호* 안드로이드 개발시 사용할 수 있는 유용한 Open API 종류 및 설명
-* 6주 *장영남* 안드로이드 하이브리드 앱 개발 최신 방법
-* 7주 *최선일* 안드로이드 실전 디버깅 및 모니터링 노하우
-* 8주 *김병우* 안드로이드 단위 테스트, UI 테스트, 그래들 사용 노하우
+* 1주 **김병우** Git 기초 및 Github 사용법
+* 2주 **장영남** 안드로이드와 파이어베이스 용법 및 용도, 활용방법 등
+* 3주 **이준호** 안드로이드 코틀린 기본 구조, 사용법, 유용성 등
+* 4주 **최선일** 안드로이드 주요 라이브러리 10선 소개 및 사용법
+* 5주 **이준호** 안드로이드 개발시 사용할 수 있는 유용한 Open API 종류 및 설명
+* 6주 **장영남** 안드로이드 하이브리드 앱 개발 최신 방법
+* 7주 **최선일** 안드로이드 실전 디버깅 및 모니터링 노하우
+* 8주 **김병우** 안드로이드 단위 테스트, UI 테스트, 그래들 사용 노하우
