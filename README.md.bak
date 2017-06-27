@@ -48,7 +48,8 @@
 
 <a name="학습참고자료"></a>
 ## 학습 참고자료
-* 안드로이드 기초 동영상 강의 
+* 안드로이드 기초 동영상 강의
+
 [Link] https://www.udacity.com/course/new-android-fundamentals--ud851
 [Link] https://www.udacity.com/course/advanced-android-app-development--ud855
 * 안드로이드 앱 개발 초급 동영상 [Link] http://www.edwith.org/android_basic
