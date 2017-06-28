@@ -49,6 +49,8 @@
 
 <a name="교육일정"></a>
 ## 교육일정
+다음은 안드로이드 전체적인 일정입니다. 참고하세요.
+
 * [교육일정](https://docs.google.com/spreadsheets/d/11C8rpewicMOWu8LcconkHi3Ar1CZONpkf9OJDVR7978/edit?ts=595363d7#gid=943948635)
  
 <a name="학습프로젝트"></a>
