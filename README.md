@@ -80,6 +80,7 @@
 * 안드로이드 앱 개발 초급 동영상 http://www.edwith.org/android_basic
 * 안드로이드 앱 개발 중급 동영상 http://www.edwith.org/android_adv
 * 안드로이드 온라인 서적 https://www.gitbook.com/book/kairo96/android
+* 안드로이드 교육 자료 https://developer.android.com/training/index.html
 * 머티리얼 디자인 http://davidlab.net/google-design-ko/material-design/introduction.html
 * 안드로이드 기초 서적(시중에서 개별 구매)
 * 네이버, 구글 온라인 검색 자료
@@ -127,7 +128,10 @@
     * 개발 결과물의 완성도에 따라 평가가 반영됨.
 
 ### 주차별 진행 안내
-작성중
+#### 1주차 **원페이지 기획서 제출**
+'아이디어기획서(docs/아이디어기획서.pptx)'를 다운받아 작성하고 튜터와 상의 후에, 메인 튜터에게 최종 승인받는다.
+    * 아이디어 요약,  아이디어 배경, 기대효과, 기능 리스트, 필요 기술, 시장성, 경쟁업체, 차별성, 추가 기능 등
+    * 1주차 일요일까지 제출
 
 
 <a name="기술세미나일정"></a>
