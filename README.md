@@ -179,7 +179,7 @@
 
 #### 실전 프로젝트 5주차 ~ 마지막 
 * **홍보 페이지 작성 및 앱 출시** 수시로 튜터에게 확인
-* https://pages.github.com/ 에 진행한 서비스 홍보 페이지 작성할 것.
+* https://pages.github.com/ 에 진행한 서비스 홍보 페이지 작성할 것. [[참고] 1기 홍보 페이지](https://adohi.github.io/ADVENTOUR/)
 * 플레이스토어에 앱 출시, 스토어 등록비 지원
 
 
